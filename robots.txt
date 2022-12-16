@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://passwordgloo-github-io.vercel.app/sitemap.xml
